@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HannaLee&fontSize=70&animation=twinkling)
-<br><br><br>🌱 I’m currently learning Web Language.
-<a src="https://happy-hanna12.tistory.com/">개발 블로그</a>
+<br><br><br>🌱 I’m currently learning Web Language.<br>
+<a href="https://happy-hanna12.tistory.com/">개발 블로그</a>
 ### 💪 Skills
 #### Platforms & Languages
 <p>
